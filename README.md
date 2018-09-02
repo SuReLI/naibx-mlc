@@ -1,3 +1,13 @@
+### Paper ###
+
+This is the companion library for the papers:
+
+(short paper) *Naive Bayes Classification for Subset Selection in a Multi-label Setting*, Mossina and Rachelson, ICPRAI (2018) <br>
+[http://oatao.univ-toulouse.fr/19557/](http://oatao.univ-toulouse.fr/19557/) <br>
+(long version) * Naive Bayes Classification for Subset Selection*, Mossina and Rachelson, arXiv preprint (2017) <br>
+[https://arxiv.org/abs/1707.06142](https://arxiv.org/abs/1707.06142)
+
+
 ### Test info ###
 The `test/main.cpp` file provides a script to run NaiBX.
 
